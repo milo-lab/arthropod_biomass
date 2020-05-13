@@ -1,0 +1,19 @@
+biome,area,number of samples,aggregated biome 1,aggregated biome 2
+Rock and Ice,1.23E+11,0,,
+Mangroves,2.39E+11,0,,
+Tropical and Subtropical Coniferous Forests,4.03E+11,22,Tropical and Subtropical Forests,Forests
+Inland Water,4.54E+11,0,,
+Flooded Grasslands and Savannas,6.21E+11,0,,
+"Mediterranean Forests, Woodlands and Scrub",1.62E+12,129,,
+Tropical and Subtropical Dry Broadleaf Forests,2.14E+12,275,Tropical and Subtropical Forests,Forests
+"Temperate Grasslands, Savannas and Shrublands",2.38E+12,361,"Temperate Grasslands, Savannas and Shrublands",Shrubland/Grassland
+Montane Grasslands and Shrublands,3.05E+12,0,"Temperate Grasslands, Savannas and Shrublands",Shrubland/Grassland
+Temperate Coniferous Forests,3.39E+12,221,Temperate Forests,Forests
+Temperate Broadleaf and Mixed Forests,7.37E+12,711,Temperate Forests,Forests
+Tundra,7.49E+12,276,Tundra,Tundra
+"Tropical and Subtropical Grasslands, Savannas and Shrublands",1.04E+13,177,"Tropical and Subtropical Grasslands, Savannas and Shrublands",Shrubland/Grassland
+Tropical and Subtropical Moist Broadleaf Forests,1.51E+13,547,Tropical and Subtropical Forests,Forests
+Crops,1.53E+13,594,Crops,
+Boreal Forests/Taiga,1.57E+13,1458,Boreal Forests/Taiga,Forests
+Deserts and Xeric Shrublands,1.96E+13,358,Deserts and Xeric Shrublands,Shrubland/Grassland
+Pasture,2.76E+13,111,Pasture,

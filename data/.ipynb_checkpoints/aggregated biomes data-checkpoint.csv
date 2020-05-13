@@ -1,0 +1,19 @@
+biome,area,number of samples,aggregated biome 1,aggregated biome 2
+Rock and Ice,123000000000,0,,
+Mangroves,239000000000,0,,
+Tropical and Subtropical Coniferous Forests,403000000000,22,Tropical and Subtropical Forests,Forests
+Inland Water,454000000000,0,,
+Flooded Grasslands and Savannas,621000000000,0,,
+"Mediterranean Forests, Woodlands and Scrub",1620000000000,129,,
+Tropical and Subtropical Dry Broadleaf Forests,2140000000000,275,Tropical and Subtropical Forests,Forests
+"Temperate Grasslands, Savannas and Shrublands",2380000000000,361,"Temperate Grasslands, Savannas and Shrublands",Shrubland/Grassland
+Montane Grasslands and Shrublands,3050000000000,0,"Temperate Grasslands, Savannas and Shrublands",Shrubland/Grassland
+Temperate Coniferous Forests,3390000000000,221,Temperate Forests,Forests
+Temperate Broadleaf and Mixed Forests,7370000000000,711,Temperate Forests,Forests
+Tundra,7490000000000,276,Tundra,Tundra
+"Tropical and Subtropical Grasslands, Savannas and Shrublands",10400000000000,177,"Tropical and Subtropical Grasslands, Savannas and Shrublands",Shrubland/Grassland
+Tropical and Subtropical Moist Broadleaf Forests,15100000000000,547,Tropical and Subtropical Forests,Forests
+Crops,15300000000000,594,,
+Boreal Forests/Taiga,15700000000000,1458,Boreal Forests/Taiga,Forests
+Deserts and Xeric Shrublands,19600000000000,358,Deserts and Xeric Shrublands,Shrubland/Grassland
+Pasture,27600000000000,111,,
